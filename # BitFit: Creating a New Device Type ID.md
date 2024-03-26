@@ -6,7 +6,7 @@
 **Status:** In-Progress  
 **Author:** Matthew Reddy  
 **Audience:**   
-**Last Updated:** Mar 20, 2024
+**Last Updated:** Mar 26, 2024
 
 <span style="font-size: large;">**Summary:** This doc is to help you create a new Device Type ID on Bitfit when there isn't an ID to create a new device under.</span>
  
