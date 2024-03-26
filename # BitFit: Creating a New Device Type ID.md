@@ -27,7 +27,7 @@
 
 ### 4. A popup will come up that will prompt you for which fields you would like to copy over to the cloned entry. You only need to select the "Name" option then click submit to finish. 
 
-   ![Alt Text](clone2.png)
+   ![Alt Text](Clone2.png)
 
 ### 5. Refresh the page and you should see the cloned entry at the top of the Catalog page.
    ![Alt Text](clone3.png)
