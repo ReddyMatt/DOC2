@@ -23,7 +23,7 @@
    <img src="bit3.png" width="800" height="500">
 
 ### 3. Once you click on the row and the pop out comes up go to the top right to where the 3 dots are located for "more actions" and select Clone.
-   ![Alt Text](clone1.png)
+      <img src="clone1.png" width="800" height="500">
 
 ### 4. A popup will come up that will prompt you for which fields you would like to copy over to the cloned entry. You only need to select the "Name" option then click submit to finish. 
 
